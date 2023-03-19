@@ -6,6 +6,6 @@ package com.rikka;
  */
 public class Git {
     public static void main(String[] args) {
-        System.out.println("master version 2");
+        System.out.println("master version 3");
     }
 }
